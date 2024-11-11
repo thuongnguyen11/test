@@ -11,5 +11,8 @@
     "url": "git@github.com-personal:thuongnguyen11/test.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.4.3"
+  }
 }
