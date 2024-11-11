@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.4.3",
-    "abc": "^1.0.0"
+    "abc": "^1.0.0",
+    "async": "^3.2.4"
   }
 }
